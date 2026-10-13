@@ -14,18 +14,13 @@
 
 # \## Project Structure
 
-# \- `data/`: Dataset storage and preprocessing scripts\[cite: 1]
-
-# \- `models/`: Trained model checkpoints\[cite: 1]
-
-# \- `notebooks/`: Exploratory analysis and training notebooks\[cite: 1]
-
-# \- `src/`: Core Python modules\[cite: 1]
-
-# \- `docs/`: 2-Page PDF report and presentation slides\[cite: 1]
-
-# \- `demo.py`: Interactive Streamlit demo script
-
+- **data/** : Dataset storage and preprocessing scripts
+- **models/** : Trained model checkpoints
+- **notebooks/** : Exploratory analysis and training notebooks
+- **src/** : Core Python modules
+- **docs/** : 2-Page PDF report and presentation slides
+- **demo.py** : Interactive Streamlit demo script
+- 
 # 
 
 # \## Execution Setup
